@@ -8,7 +8,7 @@ Feel free to contribute to the project by making a PR for a subtitle.
 
 # How to Quickly Create Subtitles
 
-"AI bad, mkay", but in this case it is great, because unlike the mainstream anti-AI Karen will tell you, LLMs got pretty good and lots of things, including transcription of videos.
+"AI bad, mkay", but in this case it is great, because unlike the mainstream anti-AI Karen will tell you, LLMs got pretty good at lots of things, including transcription of videos.
 
 We can use this to let Gemini create great and accurate subtitles for us in any language!
 
